@@ -1,2 +1,1 @@
-# backgroundTask
-The task will continue running even when the app entered background.
+[Demo](https://github.com/iii17-grace/BackgroundTaskDemo/blob/master/backgroundDemo.gif)
